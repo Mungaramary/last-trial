@@ -11,12 +11,12 @@ In this project description, we will cover:
 
 ## Project Objectives
 
-For this project, WE use exploratory data analysis to generate insights for our client.
-Practice analyzing our database 
-Decide on which studios do best
-Generate the ratings of top movies
-Get an idea of the ideal returns (foreign or domestic)
-Practice visualizations to simplify clients understanding
+* For this project, WE use exploratory data analysis to generate insights for our client.*
+* Practice analyzing our database 
+* Decide on which studios do best
+* Generate the ratings of top movies
+* Get an idea of the ideal returns (foreign or domestic)
+* Practice visualizations to simplify clients understanding
 
 ### Business Problem
 
@@ -46,7 +46,7 @@ we used only the following data files:
 * `bom.movie_gross.csv.gz`
   * Compressed CSV file (you can open without expanding the file using `pd.read_csv`)
 
-### GETTING STARTED
+### WHAT TO EXPECT
 
 * **we'll make use of the sqlite3 library as well as pandas.** By combining them, we'll be able to write queries as Python strings, then display the results in a conveniently-formatted table.We also load the csv data and work with it.
 **import pandas as pd
