@@ -61,6 +61,21 @@ we used only the following data files:
 
 * **plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
 
+# GETTING STARTED
+# NOW LETS TRY TO UNDERSTAND OUR DATA :
+BETWEEN THE FOREIGN GROSS AND DOMESTIC GROSS WHICH HAS BETTER RESULTS???¶
+We will first look at our income(the DOMESTIC_GROSS RETURNS)in order to know its pattern over the diffrent number of years.
+As it is visible below, the domestic gross over the past  4 years has been steadily rising and increasing.
+But in between the 2013 & 2015 had been steadily decreasing.
+# WE ALSO CONDUCT ANALYSIS ON THE RELATIONSHIP BETWEEN FOREIGN AND DOMESTIC
+# The distribution of movies by studio
+ **Now we will conduct our analysis on the studios columns**
+1.) We identify the value_counts and popularity of the various studios
+2.) Identify the top studios thus with best returns and better to  yield more profit for the microsoft
+
+Please start by reviewing the contents of this project description. If you have any questions, please ask ASAP.
+
+Next, you will need to complete the [***Project Proposal***](#project_proposal) which must be reviewed by your instructor before you can continue with the project
 ## Deliverables
 
 There are three deliverables for this project:
@@ -104,22 +119,7 @@ This professional GitHub repository has:
    * A file called `.gitignore` at the root of the repository directory instructs Git to ignore large, unnecessary, or private files
      * Because it starts with a `.`, you will need to type `ls -a` in the terminal in order to see that it is there
    * GitHub maintains a [Python .gitignore](https://github.com/github/gitignore/blob/master/Python.gitignore) that may be a useful starting point for your version of this file
-   
-# GETTING STARTED
-# NOW LETS TRY TO UNDERSTAND OUR DATA :
-BETWEEN THE FOREIGN GROSS AND DOMESTIC GROSS WHICH HAS BETTER RESULTS???¶
-We will first look at our income(the DOMESTIC_GROSS RETURNS)in order to know its pattern over the diffrent number of years.
-As it is visible below, the domestic gross over the past  4 years has been steadily rising and increasing.
-But in between the 2013 & 2015 had been steadily decreasing.
-# WE ALSO CONDUCT ANALYSIS ON THE RELATIONSHIP BETWEEN FOREIGN AND DOMESTIC
-# The distribution of movies by studio
- **Now we will conduct our analysis on the studios columns**
-1.) We identify the value_counts and popularity of the various studios
-2.) Identify the top studios thus with best returns and better to  yield more profit for the microsoft
-
-Please start by reviewing the contents of this project description. If you have any questions, please ask ASAP.
-
-Next, you will need to complete the [***Project Proposal***](#project_proposal) which must be reviewed by your instructor before you can continue with the project.
+   .
 
 
 ## Summary
